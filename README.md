@@ -97,8 +97,7 @@ class SimonBobadilla:
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Symh-code&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+<p align="center"> <a href="https://github.com/Symh-code"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Symh-code&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Symh-code's GitHub Stats" /> </a> <img src="https://streak-stats.demolab.com/?user=Symh-code&theme=dark&hide_border=true&cache_seconds=86400" alt="Symh-code's GitHub Streak" width="49%" /> </p> <p align="center"> <img src="https://trophy.ryglcloud.net/?username=Symh-code&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Simon Bobadilla's GitHub Trophies" /> </p>
 
 ---
 
