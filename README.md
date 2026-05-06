@@ -99,13 +99,6 @@ class SimonBobadilla:
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Symh-code&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Symh-code&theme=tokyonight&hide_border=true&border_radius=15"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Symh-code&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
-</p>
 
 ---
 
